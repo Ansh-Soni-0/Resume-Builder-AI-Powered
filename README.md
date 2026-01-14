@@ -55,7 +55,7 @@ Images: ImageKit for background removal & face focus
 - Fully responsive for desktop, tablet, and mobile.
 
 
-## 🧩 Usage Flow
+# 🧩 Usage Flow
 - signup or login
 - Choose Create Resume or Upload Existing.
 - Enter details or upload an existing resume.
