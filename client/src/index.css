@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+@import "tailwindcss";
+
+*{
+    font-family: "Outfit", sans-serif;
+}
+
+@layer base{
+    button{
+        @apply cursor-pointer
+    }
+    input:not([type="checkbox"]){
+        @apply outline-none placeholder-gray-500 focus:ring border border-gray-300 focus:ring-blue-500 focus:border-blue-500 rounded-lg
+    }
+    textarea{
+        @apply outline-none placeholder-gray-500 focus:ring border border-gray-300 focus:ring-blue-500 focus:border-blue-500 rounded-lg resize-none
+    }
+}
+
+/* Custom thin gray scrollbar */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 6px; /* thin scrollbar */
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background-color: #9ca3af; /* gray-400 */
+  border-radius: 9999px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background-color: #6b7280; /* gray-500 on hover */
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background-color: #f3f4f6; /* gray-100 background track */
+  border-radius: 9999px;
+}
