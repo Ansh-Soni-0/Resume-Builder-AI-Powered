@@ -13,6 +13,10 @@ Backend (Node.js, Express.js)
 Database (MongoDB)
 <br/>
 Authentication (JWT, OAuth)
+<br/>
+AI: Gemini 
+<br/>
+Images: ImageKit for background removal & face focus
 
 # ✅ Features:
 ## 🧱 Resume Creation
@@ -49,4 +53,16 @@ Authentication (JWT, OAuth)
 
 ## 📱 Responsive UI
 - Fully responsive for desktop, tablet, and mobile.
+
+
+## 🧩 Usage Flow
+- signup or login
+- Choose Create Resume or Upload Existing.
+- Enter details or upload an existing resume.
+- (Optional) upload photo → remove background → apply color.
+- Use AI to enhance summaries & job roles.
+- Select template and customize colors.
+- Choose Public or Private visibility and download button.
+- Manually Save your resume.
+- Export to PDF/Docx if needed.
 
