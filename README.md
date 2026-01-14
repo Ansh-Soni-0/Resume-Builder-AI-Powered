@@ -14,39 +14,39 @@ Database (MongoDB)
 <br/>
 Authentication (JWT, OAuth)
 
-## ✅ Features:
-# 🧱 Resume Creation
+# ✅ Features:
+## 🧱 Resume Creation
 - Build resumes from scratch using guided inputs.
 - Structured fields (Personal Info, Experience, Education, Skills, etc.).
 
-# 🛠️ Resume Enhancement
+## 🛠️ Resume Enhancement
 - Improve existing resumes via content optimization.
 - Clean formatting & structured output.
 
-# 🤖 AI Enhancements
+## 🤖 AI Enhancements
 - Enhances professional summaries for clarity & tone.
 - Optimizes job descriptions with strong action verbs & measurable achievements.
 - Keeps content consistent and professional without changing meaning.
 
-# 🖼️ Image Handling
+## 🖼️ Image Handling
 - Add a profile picture to resume.
 - Remove background & auto-focus on face using ImageKit.
 
-# 🎨 Accent Color
+## 🎨 Accent Color
 - Customize heading accent colors.
 - Set background color behind profile picture.
 
-# 💾 Saving & Exporting
+## 💾 Saving & Exporting
 - Manual save.
 - Export to PDF or Docx (based on implementation).
 
-# 🔐 Public / Private Resume Modes
+## 🔐 Public / Private Resume Modes
 - Public: Share resumes via a unique link.
 - Private: No share link — stays hidden.
 
-# 👤 Authentication
+## 👤 Authentication
 - Users can log in and log out to securely manage resumes.
 
-# 📱 Responsive UI
+## 📱 Responsive UI
 - Fully responsive for desktop, tablet, and mobile.
 
