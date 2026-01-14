@@ -1,9 +1,9 @@
-##Resume Builder
-A simple and intuitive web application that helps users create a new resume or improve an existing one.
+## Resume Builder
+- A simple and intuitive web application that helps users create a new resume or improve an existing one.
 Designed to speed up the resume creation process with structured templates and helpful suggestions.
 
-##Live Preview
-<a href="https://e-commerce-client-henna-three.vercel.app/" target="_blank">resume builder</a>
+## Live Preview
+<a href="https://reusme-builder.vercel.app/" target="_blank">resume builder</a>
 
 ## Tech Stack & Tools
 Frontend (React, Tailwind, prebuiltUI) 
